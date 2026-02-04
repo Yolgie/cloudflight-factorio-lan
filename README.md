@@ -55,6 +55,7 @@
 * TaskList
 * textplates
 * VehicleSnap
+* Kittycat
 
 ## In discussion:
 - RPG System - https://mods.factorio.com/mod/RPGsystem
