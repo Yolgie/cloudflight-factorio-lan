@@ -13,14 +13,13 @@
 
 ### **Bitte bei Matthias/Yolgie oder Tobi/StaticVoidMan anmelden.**
 
-## Tentative Modlist:
+## Tentative Modlist
 
 * base
 * elevated-rails
 * quality
 * space-age
-* BottleneckLite
-* DiscoScience
+
 * factorio_hd_age_base_game_base
 * factorio_hd_age_base_game_decorative
 * factorio_hd_age_base_game_enemies_nauvis
@@ -44,6 +43,7 @@
 * factorio_hd_age_space_age_terrain_fulgora
 * factorio_hd_age_space_age_terrain_gleba
 * factorio_hd_age_space_age_terrain_vulcanus
+
 * far-reach
 * flib
 * FNEI
@@ -56,7 +56,15 @@
 * textplates
 * VehicleSnap
 * Kittycat
+* Belt Visualizer
+* BottleneckLite
+* DiscoScience
+* Even Distribution
+* FactorySearch
+* Filter Helper
+* Visible Planets
 
 ## In discussion:
-- RPG System - https://mods.factorio.com/mod/RPGsystem
-- LTN - https://mods.factorio.com/mod/LogisticTrainNetwork
+
+* RPG System - https://mods.factorio.com/mod/RPGsystem
+* LTN - https://mods.factorio.com/mod/LogisticTrainNetwork
