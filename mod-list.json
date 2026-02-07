@@ -24,7 +24,17 @@
     },
     
     {
+      "name": "belt-visualizer",
+      "enabled": true
+    },
+    
+    {
       "name": "BottleneckLite",
+      "enabled": true
+    },
+    
+    {
+      "name": "colorblind_ultimate",
       "enabled": true
     },
     
@@ -154,6 +164,11 @@
     },
     
     {
+      "name": "FilterHelper",
+      "enabled": true
+    },
+    
+    {
       "name": "flib",
       "enabled": true
     },
@@ -165,6 +180,11 @@
     
     {
       "name": "helmod",
+      "enabled": true
+    },
+    
+    {
+      "name": "kittycat",
       "enabled": true
     },
     
@@ -200,6 +220,11 @@
     
     {
       "name": "VehicleSnap",
+      "enabled": true
+    },
+    
+    {
+      "name": "visible-planets",
       "enabled": true
     }
   ]
